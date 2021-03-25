@@ -1,16 +1,8 @@
-Hello, My Friends  
-Thank you for Having interest in this repository ! 
+# 인프런## 인프런 React 쇼핑몰 강의를 시청하며 작성하 Clone code입니다.
 
-To use this application, 
+```bash
+npm run dev
+```
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+를 통해 프로젝트를 실행할수 있습니다.!
 
-
-If you have problem, feel free to ask me ^^ 
-
- You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
