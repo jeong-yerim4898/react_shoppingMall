@@ -1,4 +1,4 @@
-# 인프런## 인프런 React 쇼핑몰 강의를 시청하며 작성하 Clone code입니다.
+## 인프런 React 쇼핑몰 강의를 시청하며 작성하 Clone code입니다.
 
 ```bash
 npm run dev
